@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_07aa9885",
+        "filename": "testfile.html",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1009099
+      },
+      "writtenOn": "2016-09-07T06:28:20Z",
+      "side": 1,
+      "message": "Wrong version name. Please change it.",
+      "revId": "b7301808887810020b01459687747b2d2d8df830",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
