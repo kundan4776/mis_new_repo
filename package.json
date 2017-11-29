@@ -1,0 +1,15 @@
+{
+  "name": "mis_new_repo",
+  "version": "1.0.0",
+  "description": "Test Repo",
+  "main": "testfile.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://eview.gerrithub.io/a/kundan4776/mis_new_repo"
+  },
+  "author": "",
+  "license": "ISC"
+}
